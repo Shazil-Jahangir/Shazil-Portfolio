@@ -1178,6 +1178,9 @@ section {
 #footer .social-links {
   margin: 0 0 40px 0;
 }
+.wachat{
+  font-size: 40px;
+}
 
 #footer .social-links a {
   font-size: 18px;
